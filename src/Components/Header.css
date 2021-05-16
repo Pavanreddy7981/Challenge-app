@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+}
+.header__left > h2 {
+  font-family: sans-serif;
+}
+.header__right {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header__right > h4 {
+  margin: 0px 6px;
+}
+.header__product {
+  border-bottom: 2px solid red;
+  margin: 0px 6px;
+}

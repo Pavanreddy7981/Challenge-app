@@ -1,0 +1,14 @@
+.home {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin: 10px auto;
+  justify-content: center;
+}
+.home__cards {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+  margin: 70px 0px;
+}
